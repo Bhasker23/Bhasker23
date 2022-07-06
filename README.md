@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **shrimalibhaskar2398@gmail.com**
 
+- 👨‍💻 All of my projects are available at [https://bhasker-portfolio.netlify.app/](https://bhasker-portfolio.netlify.app/)
+
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1jtpTDOznGuBfGuO31geYB42dDUQGF1NK?usp=sharing](https://drive.google.com/drive/folders/1jtpTDOznGuBfGuO31geYB42dDUQGF1NK?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
