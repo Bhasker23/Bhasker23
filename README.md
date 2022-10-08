@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhasker23&label=Profile%20views&color=0e75b6&style=flat" alt="bhasker23" /> </p>
 
 
-- 🔭 I’m currently working on **Backend.**
+- 🔭 I’m currently working on ** SpringBoot Applications.**
 
 - 🌱 I’m currently learning **Java Backend at Masai School.**
 
@@ -13,7 +13,7 @@
 
 - 📝 You can read my articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, Spring Boot **
 
 
 
