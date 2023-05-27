@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bhasker-portfolio.netlify.app/](https://bhasker-portfolio.netlify.app/)
 
-- 📄 Know about me [https://drive.google.com/file/d/156dSp_Tj5ERymdam0RoH_bmBJm4xFAzE/view?usp=sharing](https://drive.google.com/file/d/156dSp_Tj5ERymdam0RoH_bmBJm4xFAzE/view?usp=sharing)
+- 📄 Know about me from My Resume [https://drive.google.com/file/d/156dSp_Tj5ERymdam0RoH_bmBJm4xFAzE/view?usp=sharing](https://drive.google.com/file/d/156dSp_Tj5ERymdam0RoH_bmBJm4xFAzE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
