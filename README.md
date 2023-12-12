@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ** SpringBoot Applications.**
 
-- 🌱 I’m currently learning **Java Backend at Masai School.**
+- 🌱 I’m currently working with **Bonami Software as Software Developer.**
 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
