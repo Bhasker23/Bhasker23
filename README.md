@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ** SpringBoot Applications.**
 
-- 🌱 I’m currently working with **Bonami Software as Software Developer.**
+- 🌱 I’m currently looking for **Java Developer Role.**
 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
